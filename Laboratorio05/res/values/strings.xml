@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Laboratorio05 Leonardo Façanha</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="vetor_ufs">
+        <item >Flamengo</item>
+        <item >Vasco</item>
+        <item >Ceará</item>
+        <item >Botafogo</item>
+      <item >Fluminense</item>
+    </string-array>
+    <!-- editbox -->
+    <string name="nome">Nome Completo</string>
+    <string name="email">Email</string>
+    <string name="idade">Idade</string>
+    <!-- radio group -->
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <!-- Toggle Button -->
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="atualiza_auto">Atualizações automáticas?</string>
+	<!-- Contrato -->
+	<string name="contrato">Assinar Newslatter.</string>
+    
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Laboratorio01</string>
+    <string name="ola_mundo">Olá Mundo! Activity Principal</string>
+
+</resources>
